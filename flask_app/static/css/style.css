@@ -1,0 +1,47 @@
+.padd-20{
+    padding: 0 20px;
+}
+
+.paddtop-40{
+    padding-top: 40px;
+}
+
+.bord-r{
+    border-right: 1px solid rgb(226 228 232);
+}
+
+.comment-bg{
+    background-color: rgb(164, 135, 135);
+}
+
+.sap-size{
+    font-size: x-large;
+    margin: 0;
+}
+
+.txt{
+    color: #07ffe8;
+}
+
+.b:hover{
+    background-color: green;
+    border: none;
+
+}
+
+.body{
+    background-color: blue;
+}
+
+.paddleft-70{
+    padding-left: 70%;
+}
+.paddleft-10{
+    padding-left: 10%;
+}
+
+.sub{
+    text-decoration: none;
+    color: blueviolet;
+    font-weight: bold;
+}
